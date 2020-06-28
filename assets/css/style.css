@@ -1,0 +1,9 @@
+body, section {		
+	width: 800px;
+	height: 400px;
+    overflow-x: hidden;
+}
+
+.margin-left-20 {
+	margin-left: 20px;
+}
